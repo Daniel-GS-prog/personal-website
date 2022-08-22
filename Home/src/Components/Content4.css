@@ -1,0 +1,16 @@
+
+.content4-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 100%;
+}
+
+@media screen and (max-width: 700px){
+
+    .content4-display{
+        width: 100%;
+        height: 50%;
+    }
+}
