@@ -14,13 +14,13 @@ box-shadow: inset 5px 5px 9px #929292,
             inset -5px -5px 9px #eeeeee;
 }
 
-.triangle2{
+/* .triangle2{
     
         width:2rem;
         height:2rem;
         background: rgb(41,41,41);
         
-        -webkit-transform:rotate(45deg);
+    -webkit-transform:rotate(45deg);
       -moz-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
       -o-transform: rotate(45deg);
@@ -30,7 +30,7 @@ box-shadow: inset 5px 5px 9px #929292,
       
       
     
-}
+} */
 @media screen and (max-width: 500px){
 
     .content4-display{
