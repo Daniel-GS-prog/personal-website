@@ -12,8 +12,8 @@ const Card = () => {
             can connect with each other, send crypto transfers,
             and buy/sell NFTs.</p>
             <ul className='icons-list'>
-                <li><a href='https://salus-crypto.com/' target="_blank"> <img src={WebsiteLogot} /></a></li>
-                <li><a href="https://github.com/Daniel-GS-prog/react-eth-payments" target="_blank"><img src={GithubLogo}/></a></li>
+                <li className='icon'><a href='https://salus-crypto.com/' target="_blank"> <img src={WebsiteLogot} /></a></li>
+                <li className='icon'><a href="https://github.com/Daniel-GS-prog/react-eth-payments" target="_blank"><img src={GithubLogo}/></a></li>
             </ul>
 
         </div>
