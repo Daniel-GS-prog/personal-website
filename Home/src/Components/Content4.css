@@ -14,7 +14,7 @@ box-shadow: inset 5px 5px 9px #929292,
             inset -5px -5px 9px #eeeeee;
 }
 
-/* .triangle2{
+.triangle2{
     
         width:2rem;
         height:2rem;
@@ -30,11 +30,16 @@ box-shadow: inset 5px 5px 9px #929292,
       
       
     
-} */
+}
 @media screen and (max-width: 500px){
 
     .content4-display{
         width: 100%;
         height: 100%;
+    }
+
+    .triangle2{
+        margin-top: -4.8rem;
+      margin-bottom: 2rem;
     }
 }
